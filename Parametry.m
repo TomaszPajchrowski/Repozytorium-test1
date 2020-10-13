@@ -1,3 +1,6 @@
+
+%Parametry symulacji 
+
 Un=170;             % Nominal voltage
 Psi_pm = 0.27;      % Permanent magnet flux
 Ld = 3.488e-3;      % Stator inductance d axis
